@@ -1,2 +1,2 @@
 # Chatter
-Just a simple Java based chat app
+Choose between a simple entry-based chatbot or an AI chatbot.
